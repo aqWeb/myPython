@@ -1,0 +1,12 @@
+localhost=http://localhost:8080
+dev_url=http://xxx.xx.com/api
+credit_url=https://credit-dev.xxx.com
+gateway_url=https://router-xxx.com
+channel=06
+tenantId=000
+token=0E73D870D7A9415786C57AEFDB84A5C5
+identifier=18380446480
+password=Aa123456
+report_user=tangaq
+report_pwd=1234567890
+
